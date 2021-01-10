@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Ovo&display=swap');
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+.menu {
+    font-family: 'Catamaran', Helvetica, Arial, sans-serif;
+}
+
+.button,
+.menu-top {
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+}
+
+.p {
+    font-family: 'Mulish', Helvetica, Arial, sans-serif;
+}
+
+.footer {
+    font-family: 'Mulish', Helvetica, Arial, sans-serif;
+}
+
+.firstSection {
+    background-image: url("../img/bg-pattern.png"), linear-gradient(to right, rgb(218, 36, 49), rgb(122, 67, 151));
+    height: 1180px;
+}
+
+.doubleImg {
+    background-image: url("../img/demo-screen-1.jpg"), url("../img/phone.png");
+    background-size: 54%, 62%;
+    background-repeat: no-repeat, no-repeat;
+    background-position: center, center;
+    height: 900px;
+}
+
+.secondSection {
+    background-color: rgb(255, 209, 94);
+}
