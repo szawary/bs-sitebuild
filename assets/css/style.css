@@ -41,3 +41,14 @@
 .secondSection {
     background-color: rgb(255, 209, 94);
 }
+
+.fourthSection {
+    background-image: url('../img/bg-cta.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+
+.utf8Icon {
+    font-size: 8rem;
+}
